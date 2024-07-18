@@ -1,4 +1,4 @@
 # CyNET
 
-This repository serves the resorce and dataset for CyNET application
+This repository serves the resource and dataset for CyNET application
 
